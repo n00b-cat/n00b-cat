@@ -2,5 +2,5 @@
 
 I like to make and to mod games.
 
-# Languages
-<img src="javascript-logo.svg" width="100" height="100"><img src="html5-logo.svg" width="100" height="100"><img src="css-logo.svg" width="100" height="100"><img src="python-logo.svg" width="100" height="100">
+## Languages
+<img src="javascript-logo.svg" width="70" height="70"><img src="html5-logo.svg" width="70" height="70"><img src="css-logo.svg" width="70" height="70"><img src="python-logo.svg" width="70" height="70">
